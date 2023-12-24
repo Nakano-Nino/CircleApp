@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=740&t=st=1702945010~exp=1702945610~hmac=09ded28231e9ced2029d324c70c54ce5c678e17b74171e6fc7882198e949e569",
+        "fullname": "Yudha Prastyo",
+        "username": "NoobClearZ",
+        "posted_at": "5h",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isImage": false,
+        "image": "",
+        "like_count": 40,
+        "comment_count": 10,
+        "isLiked": false
+    },
+    {
+        "id": 2,
+        "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=740&t=st=1702945010~exp=1702945610~hmac=09ded28231e9ced2029d324c70c54ce5c678e17b74171e6fc7882198e949e569",
+        "fullname": "Yudha Prastyo",
+        "username": "NoobClearZ",
+        "posted_at": "5h",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isImage": false,
+        "image": "",
+        "like_count": 40,
+        "comment_count": 10,
+        "isLiked": true
+    },
+    {
+        "id": 3,
+        "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=740&t=st=1702945010~exp=1702945610~hmac=09ded28231e9ced2029d324c70c54ce5c678e17b74171e6fc7882198e949e569",
+        "fullname": "Yudha Prastyo",
+        "username": "NoobClearZ",
+        "posted_at": "5h",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isImage": false,
+        "image": "",
+        "like_count": 40,
+        "comment_count": 10,
+        "isLiked": false
+    },
+    {
+        "id": 4,
+        "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=740&t=st=1702945010~exp=1702945610~hmac=09ded28231e9ced2029d324c70c54ce5c678e17b74171e6fc7882198e949e569",
+        "fullname": "Yudha Prastyo",
+        "username": "NoobClearZ",
+        "posted_at": "5h",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isImage": false,
+        "image": "",
+        "like_count": 40,
+        "comment_count": 10,
+        "isLiked": false
+    }
+]
